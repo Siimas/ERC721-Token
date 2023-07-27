@@ -1,0 +1,10 @@
+{
+  "name": "Cocas 1",
+  "description": "Cocas in a suitcase.",
+  "image": "https://ipfs.io/ipfs/QmXM2JS484WsKjE7TBV1fR7oo27GeVUoay3HFXN9zgFZyX",
+  "attributes": [{
+      "trait_type": "Suitcase",
+      "value": true
+    }
+  ]
+}

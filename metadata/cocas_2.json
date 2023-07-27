@@ -1,0 +1,10 @@
+{
+    "name": "Cocas 2",
+    "description": "Cocas holding a smartphone.",
+    "image": "https://ipfs.io/ipfs/QmWwNN9ZmgosNZg7Uh2nxxZvhnRW8CKdUooLntuMbgsMPd",
+    "attributes": [{
+        "trait_type": "Smartphone",
+        "value": "iPhone"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+    "name": "Cocas 4",
+    "description": "Cocas giving the middle finger while smoking a cigarrete.",
+    "image": "https://ipfs.io/ipfs/Qmd2bZJ4SLqkRg15XFMJW59j6PZp11HjhqDA4GLMJysKhZ",
+    "attributes": [{
+        "trait_type": "Middle Finger",
+        "value": true
+      },
+      {
+        "trait_type": "Cigarrete",
+        "value": true
+      }
+    ]
+  }

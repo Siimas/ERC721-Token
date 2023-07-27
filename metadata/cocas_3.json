@@ -1,0 +1,14 @@
+{
+    "name": "Cocas 3",
+    "description": "Cocas drinking and smoking.",
+    "image": "https://ipfs.io/ipfs/QmXEWkP1TJBXzCAbRJ1LSybG1387DxH75vQTzbZfgN5TZB",
+    "attributes": [{
+        "trait_type": "Cigarrete",
+        "value": true
+      },
+      {
+        "trait_type": "Bear",
+        "value": true
+      }
+    ]
+  }
